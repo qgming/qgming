@@ -12,6 +12,9 @@
 ### [极点起始页（polarstart）](https://github.com/qgming/polarstart)
 一个采用 Vue 实现的 iOS26 液态玻璃风格浏览器起始页，支持每日必应壁纸，界面简洁美观，追求极致体验。
 
+### [书签侧边栏（sidebookmarks）](https://github.com/qgming/sidebookmarks)
+基于WXT + Vue3 实现的浏览器侧边栏书签管理工具，支持置顶，编辑，删除等常用操作。
+
 ## 📈 我的 GitHub 项目
 
 [![qgming 的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qgming&show_icons=true&hide_title=true&theme=vue)](https://github.com/qgming)
