@@ -19,8 +19,6 @@
 
 [![qgming 的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qgming&show_icons=true&hide_title=true&theme=vue)](https://github.com/qgming)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qgming)](https://github.com/qgming)
-
 ---
 
 热爱技术，享受创造。  
